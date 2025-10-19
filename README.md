@@ -1,5 +1,3 @@
-# Learning Cloud Engineering
-
 # ☁️ Cloud Engineering Roadmap
 
 A personal roadmap documenting my progression from Help Desk / Junior SysAdmin to Cloud Engineer.  
