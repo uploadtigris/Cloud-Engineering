@@ -62,4 +62,3 @@ You’ll build a local cluster, deploy your own app, manage scaling, and visuali
 - Container Orchestration  
 - Helm Package Management  
 - Rancher UI Visualization
-```
