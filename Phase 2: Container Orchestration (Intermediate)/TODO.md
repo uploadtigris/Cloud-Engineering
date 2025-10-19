@@ -1,4 +1,3 @@
-```markdown
 ## ☸️ Phase 2: Container Orchestration (Intermediate)
 
 **Goal:** Learn Kubernetes the right way — small and local first.  
