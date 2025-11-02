@@ -29,3 +29,7 @@ I created a new VM with CentOS Stream 10, using 4096 MiB for Memory and 4 CPUs. 
 
 I created one basic User, not added to the privledges wheel. I also enabled a root account to be seperately available.
 
+Ran an update and upgrade, making all components the most recent and bringing them to their best forms respectively.
+```
+sudo apt update && sudo apt upgrade
+```
