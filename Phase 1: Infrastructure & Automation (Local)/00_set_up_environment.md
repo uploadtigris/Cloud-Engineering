@@ -35,4 +35,8 @@ sudo dnf update && sudo dnf upgrade
 ```
 ### Configuring a Static IP for the CentOS Stream 10 VM
 There is a problem, I have a google fiber router. When I go to 192.168.1.1 , the DHCP server is said to be enabled.
+
 To get past this problem, Will be configuring a Raspberry Pi with Pi-hole and DDNS.
+
+#### Raspberry Pi --> DDNS & Pi-hole
+
