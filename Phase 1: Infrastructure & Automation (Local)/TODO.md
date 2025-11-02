@@ -7,9 +7,9 @@
 ## ✅ Step-by-Step Checklist
 
 ### 🖥️ Setup Environment
-- [X] Install a Linux distribution (Ubuntu Server, Debian, or CentOS) on a local VM using VirtualBox, VMware, or GNOME Boxes  
+- [X] Install a Linux distribution (CentOS) on a local VM using Virtual Machine Manager
 - [X] Update and secure the system (`sudo apt update && sudo apt upgrade`)  
-- [ ] Configure static IP or ensure SSH access to your VM  
+- [ ] Configure static IP
 
 ---
 
