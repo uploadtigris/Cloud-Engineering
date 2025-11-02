@@ -39,4 +39,15 @@ There is a problem, I have a google fiber router. When I go to 192.168.1.1 , the
 To get past this problem, Will be configuring a Raspberry Pi with Pi-hole and DDNS.
 
 #### Raspberry Pi --> DDNS & Pi-hole
+```
+[Internet] 
+     │
+[Google Fiber Modem/Router]
+     │
+     ├── Devices on Wi-Fi / Ethernet
+     │      │
+     │   [Raspberry Pi running Pi-hole + DDNS]
+     │      │
+     │   (Pi-hole set as DNS for devices)
+```
 
