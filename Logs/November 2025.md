@@ -27,4 +27,10 @@ I had a conversation with a GPT Chatbot and come up with this roadmap for me to 
 ### Focus Summary  
 - **Core Stack:** Rocky Linux • AWS • ERP Systems  
 - **Certifications:** RHCSA • AWS CCP • AWS SysOps • AWS Data Engineer  
-- **Goal:** Become an **ERP Cloud Engineer** with expertise in Linux, cloud infrastructure, and data-driven operations  
+- **Goal:** Become an **ERP Cloud Engineer** with expertise in Linux, cloud infrastructure, and data-driven operations
+
+I need to update the rest of my Cloud Engineering roadmap repo to reflect this.
+I will begin with going through *the Linux Bible* and practice using Rocky Linux in a VM on my Fedora Workstation in the Virtual Machine Manager Hypervisor.
+
+
+
