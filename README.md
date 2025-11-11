@@ -23,9 +23,9 @@ This repository will hold notes, projects, and automation scripts as I move thro
 **Goal:** Build a strong foundation in Linux system administration.
 
 ### Projects
-- [ ] Install and configure **Rocky Linux** in a VM  
+- [X] Install and configure **Rocky Linux** in a VM  
 - [ ] Practice user management, permissions, and networking  
-- [ ] Automate setup using **Bash scripts** or **Ansible**  
+- [ ] Automate setup using **Python**  
 - [ ] Study and prepare for the **RHCSA certification**
 
 **Skills Learned:**  
