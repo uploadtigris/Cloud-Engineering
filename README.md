@@ -5,9 +5,15 @@ This repository will hold notes, projects, and automation scripts as I move thro
 
 ---
 
-### 🗓️ Update — 11/9/2025
-I had a conversation with a GPT Chatbot and came up with this refined roadmap to follow for now.  
-My immediate goal is to begin working through *The Linux Bible* and practice using **Rocky Linux** in a virtualized environment on my **Fedora Workstation** (via Virtual Machine Manager Hypervisor).
+| Phase | Focus                  | Related Skills Reinforced            |
+| ----- | ---------------------- | ------------------------------------ |
+| 1     | Linux Bible + Network+ | System admin, networking basics      |
+| 1     | Python scripting       | Automation, file handling            |
+| 1     | Security+ + Docker     | System hardening, container security |
+| 2     | AWS CCP + Architect    | Cloud design, networking, IAM        |
+| 3     | Ansible                | Automation at scale                  |
+| 3     | Kubernetes             | Container orchestration              |
+| 3     | Terraform              | Infrastructure as Code               |
 
 ---
 
