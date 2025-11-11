@@ -101,3 +101,10 @@ For me, I was now able to open up a Rocky Linux 10 ISO in Virutal Machine Manage
 CachyOS is having issues handling the VDE or Network Bridging. So, I will move to my Fedora 42 Desktop for now where virtualization in Virtual Machine Manager is flawless.
 
 Fedora 43 is available for download but has reported issues. I am waiting until these kinks are ironed out.
+***************************************
+
+### Docker vs. VM
+
+- Type 1 Hypervisor: Bare metal. Ex: Proxmox. Gives VMs _direct access_ to Hardware. 
+- Type 2 Hypervisor: Runs as an application atop an existing OS. _Simulates_ the hardware environment.
+
