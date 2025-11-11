@@ -117,6 +117,6 @@ Situations where VMs excel are:
 
 The Linux Kernel Features that make containers possible (these two features form the backbone of container technology)
 
-Cgroups → a Linux kernel feature that allows the management, limitation, and monitoring of resource usage (like CPU and memory) for groups of processes. They help in organizing processes into hierarchical groups, enabling fine-grained control over resource allocation and prioritization. (think “budget of resources to be distributed across the applications”)
+**Cgroups** → a Linux kernel feature that allows the management, limitation, and monitoring of resource usage (like CPU and memory) for groups of processes. They help in organizing processes into hierarchical groups, enabling fine-grained control over resource allocation and prioritization. (think “budget of resources to be distributed across the applications”)
 
-Namespaces → partition the linux kernel so that one “set” of processes sees one set of resources while another set of processes sees another set of resources. It is SO isolated that processes with different namespaces cannot see or interact with each other.
+**Namespaces** → partition the linux kernel so that one “set” of processes sees one set of resources while another set of processes sees another set of resources. It is SO isolated that processes with different namespaces cannot see or interact with each other.
