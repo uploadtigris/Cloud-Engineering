@@ -134,4 +134,17 @@ The focus topics are now:
 | 6     | Kubernetes             | Container orchestration              |
 | 7     | Terraform              | Infrastructure as Code               |
 
+***************************************
+**Listed the most important items to study from Network+**
+  - Ports and Protocols
+  - Ethernet Switching
+  - IP Addressing
+  - Routing
+  - Network Services
+  - Cloud and the Data Center
+  - Network Security Fundamentals
+  - Networking Monitoring
+  - Orchestration and Automation
+  - Troubleshooting Methodology
+***************************************
 
