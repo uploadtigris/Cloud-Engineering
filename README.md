@@ -13,9 +13,9 @@ This repository will hold notes, projects, and automation scripts as I move thro
 | 1     | Python scripting       | Automation, file handling            |
 | 1     | Security+ + Docker     | System hardening, container security |
 | 2     | AWS CCP + Architect    | Cloud design, networking, IAM        |
-| 3     | Ansible                | Automation at scale                  |
-| 3     | Kubernetes             | Container orchestration              |
-| 3     | Terraform              | Infrastructure as Code               |
+| 2     | Ansible                | Automation at scale                  |
+| 2     | Kubernetes             | Container orchestration              |
+| 2     | Terraform              | Infrastructure as Code               |
 
 ---
 
