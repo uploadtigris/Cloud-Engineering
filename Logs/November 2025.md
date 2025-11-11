@@ -42,5 +42,57 @@ UPDATE: Cloud Engineering roadmap repo has been updated
 - Learning about KVM -- Kernel-based Virtual Machine ; Turns linux into a "native type 1 hypervisor".
 - Learning about Libvert, a virtualization API that allows for universal management of different virtualization technologies on Linux.
 
+Ran the following commands
+```bash
+#updating the CachyOS system
+sudo pacman -Syu
+```
+```bash
+#downloading the required tooling
+sudo pacman -Syu qemu virt-manager dnsmasq vde2 bridge-utils openbsd-netcat libvirt
+```
+*Unpacking the above command:*
 
-https://www.google.com/search?q=cachyOS+QEMU%2FKVM&oq=cachyOS+QEMU%2FKVM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoFMg0IBRAAGIYDGIAEGIoFMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIEMgoICBAAGIAEGKIEMgoICRAAGIAEGKIE0gEINzA0OWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d2c986ed,vid:75fbghKcorA,st:0
+qemu --> handles the [User Space](https://en.wikipedia.org/wiki/User_space_and_kernel_space) part of the [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor)
+
+virt-manager --> GUI for handling the virtual machines
+
+dnsmasq --> [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) support for the Virtual Machines. 
+
+vde2 --> vde stands for "[Virtual Distributed Ethernet](https://en.wikipedia.org/wiki/Virtual_Distributed_Ethernet)" 
+
+bridge-utils --> tools related to [Network Bridging](https://en.wikipedia.org/wiki/Network_bridge)
+
+openbsd-netcat --> "The nc (or netcat) utility is used for just about anything under the sun involving [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol), [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol), or [UNIX-domain sockets](https://en.wikipedia.org/wiki/Unix_domain_socket)." ~ [OpenBSD Man Pages](https://man.openbsd.org/nc.1)
+```bash
+# Checking that the modules have been loaded
+❯ lsmod | grep kvm_amd
+kvm_amd               258048  0
+kvm                  1499136  1 kvm_amd
+ccp                   196608  1 kvm_amd
+```
+They were loaded :)
+
+```bash
+# If the modules were NOT loaded, you'll need to load them with modprobe
+sudo modprobe kvm_amd
+```
+```bash
+#enabling libvirtd to start at boot
+sudo systemctl enable --now libvirtd
+```
+```bash
+#start the service
+sudo systemctl start libvirtd
+```
+```bash
+#check that libvirtd is running
+systemctl status libvirtd
+```
+You'll need to add the current user to the libvirt libraries to give them permissions to user them.
+```bash
+sudo usermod -aG libvirt $(whoami)
+```
+Then, log out and back in to have the user fully be added to the permissions group.
+
+For me, I was now able to open up a Rocky Linux 10 ISO in Virutal Machine Manager using the now configured QEMU/KVM connection.
