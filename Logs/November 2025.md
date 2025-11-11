@@ -35,7 +35,12 @@ I will begin with going through *the Linux Bible* and practice using Rocky Linux
 UPDATE: Cloud Engineering roadmap repo has been updated
 
 ## **11/11/25**
+- Today is learning about Emulation and getting started with Rocky Linux, a 1 for 1 binary copy of RHEL, and a continuation of CentOS.
 - Learning about the Hardware Emulator QEMU. Getting my Desktop running CachyOS Linux ready to run Rocky Linux.
-- 
+- QEMU basically handles the *User Space* part of the Hypervisor.
+- *User space* is a protected area in an operating system where user applications, like web browsers or word processors, run without direct access to the kernel's core functions.
+- Learning about KVM -- Kernel-based Virtual Machine ; Turns linux into a "native type 1 hypervisor".
+- Learning about Libvert, a virtualization API that allows for universal management of different virtualization technologies on Linux.
 
 
+https://www.google.com/search?q=cachyOS+QEMU%2FKVM&oq=cachyOS+QEMU%2FKVM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoFMg0IBRAAGIYDGIAEGIoFMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIEMgoICBAAGIAEGKIEMgoICRAAGIAEGKIE0gEINzA0OWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d2c986ed,vid:75fbghKcorA,st:0
