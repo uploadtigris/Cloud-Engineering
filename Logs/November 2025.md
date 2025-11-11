@@ -120,3 +120,30 @@ The Linux Kernel Features that make containers possible (these two features form
 **Cgroups** → a Linux kernel feature that allows the management, limitation, and monitoring of resource usage (like CPU and memory) for groups of processes. They help in organizing processes into hierarchical groups, enabling fine-grained control over resource allocation and prioritization. (think “budget of resources to be distributed across the applications”)
 
 **Namespaces** → partition the linux kernel so that one “set” of processes sees one set of resources while another set of processes sees another set of resources. It is SO isolated that processes with different namespaces cannot see or interact with each other.
+***************************************
+**REMINDER**
+The focus topics are now:
+1. Read "The Linux Bible" by Chris Negus following along with Rocky Linux (to learn RHEL)
+1. CompTia Network+ Course
+2. Python Scripting
+3. CompTia Security+ Course
+4. Docker
+
+The Later focuses will be:
+4. AWS CCP Course
+5. AWS Solutions Architect Course
+6. Terraform --> Infra as code while AWS is fresh
+7. Ansible --> Configuration management and automation
+8. Kubernetes --> Advanced container orchestration
+
+| Phase | Focus                  | Related Skills Reinforced            |
+| ----- | ---------------------- | ------------------------------------ |
+| 1     | Linux Bible + Network+ | System admin, networking basics      |
+| 2     | Python scripting       | Automation, file handling            |
+| 3     | Security+ + Docker     | System hardening, container security |
+| 4     | AWS CCP + Architect    | Cloud design, networking, IAM        |
+| 5     | Ansible                | Automation at scale                  |
+| 6     | Kubernetes             | Container orchestration              |
+| 7     | Terraform              | Infrastructure as Code               |
+
+
