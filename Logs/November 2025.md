@@ -123,18 +123,6 @@ The Linux Kernel Features that make containers possible (these two features form
 ***************************************
 **REMINDER**
 The focus topics are now:
-1. Read "The Linux Bible" by Chris Negus following along with Rocky Linux (to learn RHEL)
-1. CompTia Network+ Course
-2. Python Scripting
-3. CompTia Security+ Course
-4. Docker
-
-The Later focuses will be:
-4. AWS CCP Course
-5. AWS Solutions Architect Course
-6. Terraform --> Infra as code while AWS is fresh
-7. Ansible --> Configuration management and automation
-8. Kubernetes --> Advanced container orchestration
 
 | Phase | Focus                  | Related Skills Reinforced            |
 | ----- | ---------------------- | ------------------------------------ |
