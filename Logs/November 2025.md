@@ -108,3 +108,15 @@ Fedora 43 is available for download but has reported issues. I am waiting until 
 - Type 1 Hypervisor: Bare metal. Ex: Proxmox. Gives VMs _direct access_ to Hardware. 
 - Type 2 Hypervisor: Runs as an application atop an existing OS. _Simulates_ the hardware environment.
 
+The power of the Docker container is that the Docker file will describe the installation steps and all required dependencies. This way, any computer running docker would be able to run the docker container containing an application without having to save the entire state of the OS.
+
+Situations where VMs excel are:
+The environment is completely isolated. Secure. Identical environment down to the OS level.
+When we need an environment that is completely replicating some destination environment.
+
+
+The Linux Kernel Features that make containers possible (these two features form the backbone of container technology)
+
+Cgroups → a Linux kernel feature that allows the management, limitation, and monitoring of resource usage (like CPU and memory) for groups of processes. They help in organizing processes into hierarchical groups, enabling fine-grained control over resource allocation and prioritization. (think “budget of resources to be distributed across the applications”)
+
+Namespaces → partition the linux kernel so that one “set” of processes sees one set of resources while another set of processes sees another set of resources. It is SO isolated that processes with different namespaces cannot see or interact with each other.
