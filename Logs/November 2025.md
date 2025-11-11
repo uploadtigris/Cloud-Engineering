@@ -32,6 +32,8 @@ I had a conversation with a GPT Chatbot and come up with this roadmap for me to 
 I need to update the rest of my Cloud Engineering roadmap repo to reflect this.
 I will begin with going through *the Linux Bible* and practice using Rocky Linux in a VM on my Fedora Workstation in the Virtual Machine Manager Hypervisor.
 
+UPDATE: Cloud Engineering roadmap repo has been updated
+
 ## **11/11/25**
 - Learning about the Hardware Emulator QEMU. Getting my Desktop running CachyOS Linux ready to run Rocky Linux.
 - 
