@@ -5,6 +5,8 @@ This repository will hold notes, projects, and automation scripts as I move thro
 
 ---
 
+## Learning Roadmap
+
 | Phase | Focus                  | Related Skills Reinforced            |
 | ----- | ---------------------- | ------------------------------------ |
 | 1     | Linux Bible + Network+ | System admin, networking basics      |
