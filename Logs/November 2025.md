@@ -147,4 +147,5 @@ The focus topics are now:
   - Orchestration and Automation
   - Troubleshooting Methodology
 ***************************************
-
+## **11/18/2025**
+- Today, I am focusing on learning about networking. Specifically Ethernet Switching, IP Addressing, and Routing.
