@@ -12,10 +12,10 @@ This repository will hold notes, projects, and automation scripts as I move thro
 | 1     | Python scripting             | Automation, file handling            |
 | 1     | Docker                       | System hardening, container security |
 | 2     | AWS Solutions Architect      | Cloud design, IAM, best practices    |
-| 2     | AWS Data Engineering         | Data pipelines, analytics, ETL       |
-| 2     | AWS Networking               | VPC, routing, security groups        |
-| 3     | RHCSA                        | Enterprise Linux administration      |
-| 3     | Ansible + Terraform          | Automation and Infrastructure as Code|
+| 3     | AWS Data Engineering         | Data pipelines, analytics, ETL       |
+| 4     | AWS Networking               | VPC, routing, security groups        |
+| 5     | RHCSA                        | Enterprise Linux administration      |
+| 6     | Ansible + Terraform          | Automation and Infrastructure as Code|
 
 ---
 
@@ -24,7 +24,7 @@ This repository will hold notes, projects, and automation scripts as I move thro
 
 ### Projects
 - [X] Install and configure **Rocky Linux** in a VM  
-- [ ] Practice user management, permissions, and networking  
+- [X] Practice user management, permissions, and networking  
 - [ ] Automate setup using **Python**  
 - [ ] Study foundational Linux concepts
 
