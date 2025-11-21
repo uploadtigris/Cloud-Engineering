@@ -8,7 +8,7 @@ This repository will hold notes, projects, and automation scripts as I move thro
 
 | Phase | Focus                        | Related Skills Reinforced            |
 | ----- | ---------------------------- | ------------------------------------ |
-| 1     | Linux Bible + Network+       | System admin, networking basics      |
+| 1     | Linux Bible                  | System admin                         |
 | 1     | Python scripting             | Automation, file handling            |
 | 1     | Security+ + Docker           | System hardening, container security |
 | 2     | AWS Solutions Architect      | Cloud design, IAM, best practices    |
