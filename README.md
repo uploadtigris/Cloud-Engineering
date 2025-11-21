@@ -1,6 +1,6 @@
-# ☁️ ERP Cloud Engineering Roadmap
+# ☁️ Cloud Engineering Roadmap
 
-A personal roadmap documenting my progression from **Help Desk / Junior SysAdmin** to **ERP Cloud Engineer**.  
+A personal roadmap documenting my progression from **Help Desk / Junior SysAdmin** to **Cloud Engineer**.  
 This repository will hold notes, projects, and automation scripts as I move through each learning phase.
 
 ---
