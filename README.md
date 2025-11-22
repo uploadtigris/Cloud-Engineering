@@ -10,7 +10,7 @@ This repository will hold notes, projects, and automation scripts as I move thro
 | ----- | ---------------------------- | ------------------------------------ |
 | 1     | Linux Bible                  | System admin                         |
 | 1     | Python scripting             | Automation, file handling            |
-| 1     | Docker                       | System hardening, container security |
+| 1     | Docker                       | System hardening, containerization   |
 | 2     | AWS Solutions Architect      | Cloud design, IAM, best practices    |
 | 3     | AWS Data Engineering         | Data pipelines, analytics, ETL       |
 | 4     | AWS Networking               | VPC, routing, security groups        |
