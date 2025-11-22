@@ -153,3 +153,7 @@ The focus topics are now:
 ## **11/21/2025**
 - Decided that I should solely focus on the AWS Solutions Architect certificate
 - Studying AWS Fundamentals: RDS + Aurora + ElastiCache && Route53
+## **11/22/2025**
+- Installed Ubuntu 24.04 LTS & got it configured on my laptop
+- Began [Learn to Cloud](https://learntocloud.guide/)
+- Practicing Git, pulling the Cloud Engineering repo to my local Ubuntu machine
