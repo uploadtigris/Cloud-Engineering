@@ -157,3 +157,7 @@ The focus topics are now:
 - Installed Ubuntu 24.04 LTS & got it configured on my laptop
 - Began [Learn to Cloud](https://learntocloud.guide/)
 - Practicing Git, pulling the Cloud Engineering repo to my local Ubuntu machine
+## **11/24/2025**
+- Re-evaluated career plan. Now working toward SRE career path.
+- Working toward next positions: Junior SRE, Junior DevOps Engineer, Junior Cloud Engineer, associate/junior Platform Engineer
+- Edited portfolio site to reflect my clarified direction
