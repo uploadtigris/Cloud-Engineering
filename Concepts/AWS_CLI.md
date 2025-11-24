@@ -1,5 +1,7 @@
 # **Quick AWS CLI Guide**
 
+## S3 Buckets
+
 ### **1. Install & Configure**
 ```bash
 aws configure
@@ -27,3 +29,5 @@ aws s3 rm s3://your-bucket-name --recursive
 aws s3 rb s3://your-bucket-name --force
 ```
 **Note:** Bucket must be empty.
+
+## EC2 Instances
