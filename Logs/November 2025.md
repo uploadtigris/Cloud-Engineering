@@ -161,3 +161,5 @@ The focus topics are now:
 - Working toward next positions: Junior SRE, Junior DevOps Engineer, Junior Cloud Engineer, associate/junior Platform Engineer
 - Edited portfolio site to reflect my clarified direction
 - Continued with Phase 1: Linux and Bash of Learn to Code
+- Ubuntu was being buggy, installed Linux Mint
+- Studied the AWS CLI
