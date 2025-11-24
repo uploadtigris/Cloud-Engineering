@@ -17,7 +17,7 @@ Replace `your-bucket-name` with a unique name.
 aws s3 cp local-file.txt s3://your-bucket-name/
 ```
 
-### **3. Deleting all contents of a bucket**
+### **4. Deleting all contents of a bucket**
 ```bash
 aws s3 rm s3://your-bucket-name --recursive
 ```
