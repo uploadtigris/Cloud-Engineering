@@ -149,7 +149,6 @@ The focus topics are now:
 ***************************************
 ## **11/18/2025**
 - Today, I am focusing on learning about networking. Specifically Ethernet Switching, IP Addressing, and Routing.
-- 
 ## **11/21/2025**
 - Decided that I should solely focus on the AWS Solutions Architect certificate
 - Studying AWS Fundamentals: RDS + Aurora + ElastiCache && Route53
