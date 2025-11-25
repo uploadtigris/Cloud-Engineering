@@ -12,6 +12,21 @@ systemctl status libvirtd
 I then need to add my user to the libvirt and kvm groups
 ```
 sudo usermod -aG libvirt $USER
-sudo usermod -aG kvm $USER
+sudo usermod -aG libvirt-qemu $USER
 ```
 Then, I need to log out and back in for the changes to take effect.
+
+Verify libvirt socket perimissions
+```
+ls -l /var/run/libvirt/libvirt-sock
+```
+You should see something like
+```
+srw-rw---- 1 root libvirt ...
+```
+The "group" must be "libvirt", if it is NOT then run:
+```
+sudo chgrp libvirt /var/run/libvirt/libvirt-sock
+sudo chmod 660 /var/run/libvirt/libvirt-sock
+```
+Mine is, so I go on
