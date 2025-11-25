@@ -29,4 +29,4 @@ The "group" must be "libvirt", if it is NOT then run:
 sudo chgrp libvirt /var/run/libvirt/libvirt-sock
 sudo chmod 660 /var/run/libvirt/libvirt-sock
 ```
-Mine is, so I go on
+My set is ready to go!
