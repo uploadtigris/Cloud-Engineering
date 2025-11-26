@@ -1,4 +1,4 @@
-# ☁️ Cloud Engineering Roadmap (AWS-First, Fast-Track)
+# ☁️ Cloud Engineering Roadmap
 
 This is my personal roadmap for moving from **Help Desk Technician** into **Cloud Engineering**, with a focus on AWS, automation, and practical hands-on skills.
 
