@@ -1,8 +1,3 @@
-Got you — here’s the same roadmap rewritten in a more natural, personal tone, like *you* wrote it.
-Casual, direct, and still professional enough for GitHub.
-
----
-
 # ☁️ Cloud Engineering Roadmap (AWS-First, Fast-Track)
 
 This is my personal roadmap for moving from **Help Desk Technician** into **Cloud Engineering**, with a focus on AWS, automation, and practical hands-on skills.
