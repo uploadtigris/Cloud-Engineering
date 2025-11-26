@@ -163,3 +163,17 @@ The focus topics are now:
 - Continued with Phase 1: Linux and Bash of Learn to Code
 - Ubuntu was being buggy, installed Linux Mint
 - Studied the AWS CLI
+## **11/26/25**
+- Began studying Terraform
+- IaC, Policy as code
+- Terraform registry for modules --> prebuilt code to setup infrastructure
+- Resizing and maintainance --> ansible
+- Declarative syntax: define what infrastructure you want, not how to create it
+- State management: keeps track of current infrastructure to plan changes safely
+- terraform plan → preview changes before applying
+- terraform apply → deploys or updates infrastructure
+- Idempotent: running the same code multiple times produces the same result
+- Modules: organize reusable code for standard infrastructure patterns
+- Workspaces: manage multiple environments (dev, staging, prod)
+- Integration with CI/CD: automate infrastructure deployment pipelines
+- Resource dependencies: Terraform figures out the order to create/update resources automatically
