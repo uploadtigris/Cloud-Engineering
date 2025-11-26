@@ -1,217 +1,195 @@
-# ☁️ Cloud Engineering Roadmap (Networking-Focused)
+Got you — here’s the same roadmap rewritten in a more natural, personal tone, like *you* wrote it.
+Casual, direct, and still professional enough for GitHub.
 
-A personal roadmap documenting my progression from **Help Desk Technician** to **Cloud Engineering** with a strong emphasis on **Linux, Networking, and Cloud Infrastructure Automation**.
+---
 
-This repository stores my notes, labs, diagrams, and hands-on projects as I develop foundational and professional engineering skills.
+# ☁️ Cloud Engineering Roadmap (AWS-First, Fast-Track)
+
+This is my personal roadmap for moving from **Help Desk Technician** into **Cloud Engineering**, with a focus on AWS, automation, and practical hands-on skills.
+
+I’m using this repo to store my notes, labs, diagrams, and projects as I work toward cloud-focused roles like CloudOps, Cloud Support, or Junior Cloud Engineer.
 
 ---
 
 # 🧱 Core Philosophy
 
-Move from “resetting passwords” → to “building automated, scalable, reliable cloud platforms.”
+I’m shifting away from basic help desk tasks and leaning into work that actually builds systems, not just fixing them.
 
-This roadmap emphasizes:
+My goal is to go from:
 
-* **Linux mastery (RHCSA-first approach)**
-* **Deep networking fundamentals (CCNA path)**
-* **Practical DevOps skills (Terraform, GitHub Actions, CI/CD)**
-* **Cloud networking & infrastructure (AWS Networking Specialty path)**
-* **Production-minded SRE concepts (monitoring, reliability, automation)**
+**“resetting passwords” → “deploying and automating cloud infrastructure.”**
+
+This roadmap reflects that direction. It focuses on:
+
+* **AWS Solutions Architect Associate (SAA)**
+* **Learn to Cloud for hands-on experience**
+* **Automation skills with PowerShell, Bash, and Git**
+* **DevOps fundamentals (Docker + CI/CD)**
+* **Building real cloud projects that belong in a portfolio**
 
 ---
 
 # 🚀 Learning Roadmap Overview
 
-| Phase | Focus Area                                            | Why It Matters                                                              |
-| ----- | ----------------------------------------------------- | --------------------------------------------------------------------------- |
-| 1     | **Linux + RHCSA**                                     | Core skill for DevOps/SRE/Cloud; required for real-world production systems |
-| 2     | **Networking Fundamentals → CCNA**                    | Strengthens routing, VPN, DNS, subnets, troubleshooting                     |
-| 3     | **Cloud Foundations (AWS CCP + SAA coursework only)** | Learn AWS fundamentals without paying for exams                             |
-| 4     | **DevOps Foundations**                                | Git, shell scripting, Docker, CI/CD basics                                  |
-| 5     | **Terraform + Ansible (IaC)**                         | Automate cloud infrastructure and configuration                             |
-| 6     | **AWS Cloud Networking**                              | VPC, routing, TGW, hybrid infrastructure                                    |
-| 7     | **AWS Networking Specialty Prep**                     | Deep networking expertise for Cloud/DevOps roles                            |
-| 8     | **SRE & Kubernetes**                                  | Reliability engineering, containers at scale                                |
+| Phase | Focus Area                                  | Why It Matters                                                     |
+| ----- | ------------------------------------------- | ------------------------------------------------------------------ |
+| 1     | **"Learn to Cloud" Foundations**              | Builds real, practical skills and portfolio projects               |
+| 2     | **AWS Solutions Architect Associate (SAA)** | The best starting certification for cloud roles                    |
+| 3     | **CloudOps & Automation Foundations**       | Core skills for any cloud/DevOps position                          |
+| 4     | **Terraform + IaC Basics**                  | Automates infrastructure like real cloud engineers do              |
+| 5     | **AWS Deep Dive: VPC + Core Services**      | Covers the cloud networking + architecture principles roles expect |
+| 6     | **DevOps & SRE Basics**                     | Reliability, monitoring, and container fundamentals                |
 
 ---
 
-# 🧰 Phase 1: Linux + RHCSA
+# 🧰 Phase 1: Learn to Cloud Foundations
 
-**Goal:** Become competent in real-world Linux administration.
+**Goal:** Build a solid cloud foundation with hands-on projects instead of pure theory.
 
-### Focus
+### What I’m focusing on
 
-* RHEL/AlmaLinux labs
-* Systemd, SELinux, networking, storage
-* User/group management
-* Bash scripting fundamentals
+* IAM + AWS CLI
+* EC2 basics
+* VPC basics
+* S3
+* CloudWatch logs/metrics
+* Light Linux fundamentals
 
 ### Projects
 
-* Install AlmaLinux in a VM
-* Automate user and package setup with shell scripts
-* Build small automation scripts (service restarts, log parsing, backups)
+* EC2 deployments with user data
+* Custom IAM policies
+* Multi-tier VPC setup
+* S3 static site
+* CloudWatch dashboards
 
-**Outcome:** Ready for RHCSA exam (even if not taking it).
+**Outcome:** A solid baseline and a portfolio to prove it.
 
 ---
 
-# 🌐 Phase 2: Networking Fundamentals → CCNA
+# ☁️ Phase 2: AWS Solutions Architect Associate (SAA)
 
-**Goal:** Build strong, job-ready networking fundamentals.
+**Goal:** Earn the most valuable beginner cloud certification.
 
-CCNA replaces Network+. It covers:
+### What I’m learning
 
-* IP addressing & subnetting
-* Routing fundamentals
-* Switching, VLANs, STP
-* Firewalls, ACLs
-* DNS, DHCP, NAT
-* VPNs & tunnels
-* Troubleshooting packet flow
+* AWS compute, storage, and networking
+* IAM permissions and security
+* Load balancing + autoscaling
+* Databases
+* High availability + fault tolerance
+* How to build reliable architectures
 
 **Why this matters:**
-DevOps, SRE, and Cloud roles rely heavily on VPC routing, service traffic flow, gateways, DNS failures, and access issues.
+SAA is the top cert for breaking into Cloud Support, CloudOps, or Junior Cloud Engineering roles.
 
 ---
 
-# ☁️ Phase 3: Cloud Foundations (CCP + SAA Coursework Only)
+# 🔧 Phase 3: CloudOps & Automation Foundations
 
-**Goal:** Learn cloud architecture fundamentals **without paying for tests**.
+**Goal:** Learn the automation and tooling every cloud engineer uses.
 
-Recommended courses:
+### Tools & Skills
 
-* AWS Cloud Practitioner (course only)
-* AWS Solutions Architect Associate (course only)
-
-**Why:**
-AWS Networking Specialty assumes you understand foundational AWS architecture, even if you're not certified.
-
-You do *not* need to take the exams — the knowledge is what matters.
-
----
-
-# 🔧 Phase 4: DevOps Foundations
-
-**Goal:** Learn the core tools used by DevOps/SRE engineers.
-
-* Git & GitHub
-* Linux scripting
-* Docker containerization
-* Basic CI/CD with GitHub Actions
+* Git + GitHub
+* Bash & PowerShell scripting
+* Docker basics
+* GitHub Actions workflows
 
 ### Projects
 
-* Containerize a small Flask/Node app
-* Build GitHub Actions pipelines
-* Deploy containers to a VM
+* Automated user scripts
+* Containerizing a simple app
+* CI/CD pipelines for small projects
 
 ---
 
-# 🏗 Phase 5: Infrastructure as Code (IaC)
+# 🏗 Phase 4: Infrastructure as Code (IaC)
 
-**Goal:** Provision and automate cloud infrastructure at scale.
+**Goal:** Build and manage cloud resources using code.
 
 ### Tools
 
-* **Terraform** (primary IaC tool for cloud roles)
-* **Ansible** (config management)
+* **Terraform** (primary focus)
+* **Ansible** (optional)
 
 ### Projects
 
-* Build VPCs, subnets, route tables with Terraform
-* Automate Linux configuration using Ansible
-* Create reusable Terraform modules
+* Terraform VPC builds
+* EC2 infrastructure modules
+* Reusable Terraform modules
 
 ---
 
-# 🔌 Phase 6: AWS Cloud Networking
+# 🔌 Phase 5: AWS Deep Dive — VPC & Core Infrastructure
 
-**Goal:** Master cloud-level networking concepts.
+**Goal:** Learn the cloud fundamentals employers expect for real production environments.
 
-### Core Topics
+### Topics
 
-* VPC design
-* Routing (IGW, NAT, TGW, route tables)
+* VPC design patterns
+* NAT, IGW, routing
 * Load balancers
-* Hybrid VPN
-* Direct Connect basics
-* DNS (Route 53), CloudFront
-* Network troubleshooting
+* Route 53
+* IAM advanced use
+* Monitoring
 
 ### Projects
 
-* Multi-tier VPC
-* ALB + EC2 deployment
-* Site-to-site VPN simulation using strongSwan
-* Multi-account networking architecture
+* Multi-tier architectures
+* ALB → EC2 deployments
+* Route 53 with health checks
+* Centralized logging setup
 
 ---
 
-# 🎓 Phase 7: AWS Networking Specialty Prep
+# 🧩 Phase 6: DevOps & SRE Basics
 
-**Goal:** Build deep expertise in cloud networking.
-
-**Important:**
-AWS Networking Specialty **recommends** AWS Solutions Architect — but you do NOT need the cert, only the knowledge (covered in Phase 3).
+**Goal:** Understand how production systems stay healthy and reliable.
 
 ### Topics
 
-* Advanced routing scenarios
-* Transit Gateway deep dive
-* VPC peering & private link
-* Hybrid & multi-region architecture
-* High availability networking patterns
-
----
-
-# 🧩 Phase 8: SRE & Kubernetes
-
-**Goal:** Learn how production systems stay reliable.
-
-### Topics
-
-* Kubernetes fundamentals
-* Observability (logs, metrics, tracing)
-* Reliability engineering
-* Incident response
-* SLIs, SLOs, SLAs
-* Automated healing strategies
+* Intro Kubernetes
+* Observability (logs, metrics, dashboards)
+* Incident response basics
+* SLOs/SLIs
+* Auto-healing concepts
 
 ### Projects
 
-* Deploy app to Kubernetes cluster
-* Implement monitoring with Prometheus + Grafana
-* Build alerting/automation workflows
+* Deploy an app to a managed K8s cluster
+* CloudWatch + Grafana dashboards
+* Simple alerting + monitoring pipelines
 
 ---
 
 # 🛠 Tools Breakdown
 
-| Category       | Skills / Tools                                                |
-| -------------- | ------------------------------------------------------------- |
-| **Linux**      | RHEL/AlmaLinux, systemd, SELinux, Bash                        |
-| **Networking** | CCNA topics: routing, VPN, DNS, subnets, ACLs                 |
-| **Cloud**      | AWS core services, VPC, IAM, ALB, Route 53                    |
-| **IaC**        | Terraform, Ansible                                            |
-| **DevOps**     | Docker, GitHub Actions, CI/CD                                 |
-| **SRE**        | Kubernetes, Observability, Monitoring, Reliability principles |
+| Category       | Skills / Tools                            |
+| -------------- | ----------------------------------------- |
+| **Cloud**      | AWS core services, EC2, VPC, IAM, ALB     |
+| **IaC**        | Terraform, (Ansible optional)             |
+| **Automation** | Bash, PowerShell, Git, GitHub Actions     |
+| **DevOps**     | Docker, CI/CD basics                      |
+| **SRE**        | Monitoring, incident response, Kubernetes |
 
 ---
 
 # 🎯 Long-Term Goal
 
-Become a **DevOps/SRE Engineer** with a specialization in:
+My end goal is to move into a **CloudOps / Cloud Engineer** role and eventually toward SRE, focusing on:
 
-* **Cloud networking**
-* **Linux platform operations**
-* **Infrastructure automation (IaC)**
-* **Reliability engineering**
-
-This combines the strongest elements of Cloud, Networking, and DevOps into one powerful career path.
+* AWS infrastructure
+* Automation and IaC
+* CI/CD pipelines
+* Monitoring and reliability
 
 ---
 
 # 🧭 Current Next Step
 
-Begin **Phase 1** — RHCSA labs on AlmaLinux (or RHEL Developer subscription).
+Starting **Phase 1**, working through Learn to Cloud labs and building out my first AWS projects.
+
+---
+
+If you want this in a more opinionated, more casual, or more professional tone, tell me — I can adjust it to match your voice even more.
