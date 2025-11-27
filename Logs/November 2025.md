@@ -177,3 +177,6 @@ The focus topics are now:
 - Workspaces: manage multiple environments (dev, staging, prod)
 - Integration with CI/CD: automate infrastructure deployment pipelines
 - Resource dependencies: Terraform figures out the order to create/update resources automatically
+- ## **11/17/25**
+- Setting up MVP of the CloudChef application
+- 
