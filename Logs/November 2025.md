@@ -181,3 +181,5 @@ The focus topics are now:
 - Setting up MVP of the CloudChef application
 ## **11/30/25**
 - Focusing direction toward obtaining the RHCSA
+- Beginning the [Linux Journey](https://labex.io/linuxjourney) modules!
+- 
