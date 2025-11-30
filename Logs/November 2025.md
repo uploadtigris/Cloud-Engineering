@@ -179,4 +179,5 @@ The focus topics are now:
 - Resource dependencies: Terraform figures out the order to create/update resources automatically
 ## **11/17/25**
 - Setting up MVP of the CloudChef application
-- 
+## **11/30/25**
+- Focusing direction toward obtaining the RHCSA
