@@ -6,3 +6,6 @@
   3) Systems Administrator
 - I will focus on my RHCSA and then my CCNA later
 - Linux is the focus right now. Learn to Linux first --> Linux Bible --> Red Hat Labs --> Take RHCSA
+
+**12/4/25**:
+- Focusing on learning User Management, Permissions, and Processes
