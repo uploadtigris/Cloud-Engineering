@@ -1,4 +1,4 @@
-# Setting up the Linux environmetn
+# Setting up the Linux environment
 
 I need to make sure the libvirt service is running
 ```
@@ -16,7 +16,7 @@ sudo usermod -aG libvirt-qemu $USER
 ```
 Then, I need to log out and back in for the changes to take effect.
 
-Verify libvirt socket perimissions
+Verify libvirt socket permissions
 ```
 ls -l /var/run/libvirt/libvirt-sock
 ```
