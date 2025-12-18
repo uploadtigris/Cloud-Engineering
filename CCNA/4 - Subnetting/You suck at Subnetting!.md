@@ -25,7 +25,7 @@
 	- From here, the Client will ask the `Default Gateway` == **the Router**
 - Helps you to get OUTSIDE of your network
 
-# we ran OUT of IP Addresses!
+# We ran OUT of IP Addresses!
 
 NOTE: Cisco only subtracts Network Address and the Broadcast Address **NOT the following**:
 - Default gateway
@@ -89,3 +89,9 @@ Note the gap between A and B
 	- why so virtual IP address ready to respond to itself on our devices?
 - **Remember! 127.x.x.x are LOOP BACK devices**
 
+# Private IP Addresses
+
+Public IP Addresses
+- **all** of the addresses in the table above
+
+RFC 1918 --> 
