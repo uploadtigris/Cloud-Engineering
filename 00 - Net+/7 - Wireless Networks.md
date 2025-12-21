@@ -26,3 +26,18 @@ Wireless Antennas
 	- a type of unidirectional
 - Parabolic antenna
 	- focuses the energy and one direction --> used for TV
+
+Wireless Security
+1) Open networks are networks with no security, no protection, and no password
+2) WEP is associated with the term Initialization Vector (IV)
+3) WPA is associated with the terms TKIP (replaced IVs) an RC4 (encryption used in WPA and WEP)
+4) WPA2 is associated with the terms CCMP (integrity protocol we used) and AES (encryption of WPA2)
+5) WPA3 is associated with the term SAE
+6) WPS uses a push-button configuration and should be disabled
+7) Pre-shared key is associated with a password used in a personal mode of a wireless network
+8) Enterprise mode is associated with using an individual username and password for each user
+
+Captive Portals
+- a page that client is redirected to when attempting to access the network
+
+
