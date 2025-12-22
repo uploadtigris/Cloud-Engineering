@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - CCNA/00 - 100 Days of CCNA.md",
+                "file": "01 - CCNA/0 - Concepts/CachyOS - Setting up Packet Tracer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - 100 Days of CCNA"
+              "title": "CachyOS - Setting up Packet Tracer"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "fd5137ef5890280f",
   "lastOpenFiles": [
+    "01 - CCNA/0 - Concepts/day 1.md",
     "01 - CCNA/0 - Concepts/CachyOS - Setting up Packet Tracer.md",
     "01 - CCNA/00 - 100 Days of CCNA.md",
+    "03 - AWS Solutions Architect/Udemy Course",
     "01 - CCNA/4 - Subnetting/You suck at Subnetting!.md",
     "01 - CCNA/3 - Scenarios/scenarios.md",
     "01 - CCNA/1 - Labs/lab 1.md",
@@ -217,7 +219,6 @@
     "02 - Security+/23 - Altering and Monitoring.md",
     "02 - Security+/22 - Vulnerability Management.md",
     "02 - Security+/21 - Security Techniques.md",
-    "02 - Security+/20 - Hardening.md",
     "02 - Security+",
     "99 - imgs/Pasted image 20251219121440.png",
     "99 - imgs",
@@ -229,7 +230,6 @@
     "CCNA/4 - Subnetting/Untitled",
     "01 - CCNA/4 - Subnetting",
     "01 - CCNA/3 - Scenarios",
-    "01 - CCNA/2 - Commands",
-    "01 - CCNA/1 - Labs"
+    "01 - CCNA/2 - Commands"
   ]
 }
