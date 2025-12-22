@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - CCNA/1 - Labs/lab 3.md",
+                "file": "01 - CCNA/2 - Commands/command 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab 3"
+              "title": "command 1"
             }
           }
         ]
@@ -186,6 +186,10 @@
   "active": "fd5137ef5890280f",
   "lastOpenFiles": [
     "01 - CCNA/0 - Concepts/03 - TCP IP.md",
+    "01 - CCNA/0 - Concepts/02 - Interfaces and Cables.md",
+    "01 - CCNA/0 - Concepts/01 - Intro.md",
+    "01 - CCNA/0 - Concepts/99 - CachyOS - Setting up Packet Tracer.md",
+    "01 - CCNA/1 - Labs/lab 2.md",
     "01 - CCNA/1 - Labs/lab 3.md",
     "imgs/Pasted image 20251221213741.png",
     "imgs/Pasted image 20251221213604.png",
@@ -195,12 +199,9 @@
     "imgs/Pasted image 20251221212254.png",
     "imgs/Pasted image 20251221212127.png",
     "imgs/Pasted image 20251221204141.png",
-    "01 - CCNA/1 - Labs/lab 2.md",
-    "01 - CCNA/0 - Concepts/02 - Interfaces and Cables.md",
     "imgs/Pasted image 20251221161341.png",
     "imgs/Pasted image 20251221155639.png",
     "01 - CCNA/00 - 100 Days of CCNA.md",
-    "01 - CCNA/0 - Concepts/CachyOS - Setting up Packet Tracer.md",
     "01 - CCNA/4 - Subnetting/You suck at Subnetting!.md",
     "01 - CCNA/3 - Scenarios/scenarios.md",
     "00 - Net+/10 - Routing.md",
@@ -222,7 +223,6 @@
     "02 - Security+/26 - Automation and Orchestration.md",
     "02 - Security+/25 - Investigating an Incident.md",
     "02 - Security+/24 - Incident Response.md",
-    "02 - Security+/23 - Altering and Monitoring.md",
     "02 - Security+",
     "99 - imgs",
     "00 - Net+",
