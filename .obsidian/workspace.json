@@ -11,10 +11,14 @@
             "id": "fd5137ef5890280f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - CCNA/0 - Concepts/04 - Intro to CLI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04 - Intro to CLI"
             }
           }
         ]
@@ -181,6 +185,9 @@
   },
   "active": "fd5137ef5890280f",
   "lastOpenFiles": [
+    "01 - CCNA/0 - Concepts/99 - CachyOS - Setting up Packet Tracer.md",
+    "01 - CCNA/0 - Concepts/04 - Intro to CLI.md",
+    "01 - CCNA/0 - Concepts/03 - TCP IP.md",
     "imgs/Screenshot from 2025-12-21 15-41-04.png",
     "imgs/Screenshot from 2025-12-21 15-39-29.png",
     "imgs/Pasted image 20251221213741.png",
@@ -192,7 +199,6 @@
     "imgs/Pasted image 20251221212254.png",
     "imgs/Pasted image 20251221212127.png",
     "imgs/Pasted image 20251221204141.png",
-    "imgs/Pasted image 20251221161341.png",
     "01 - CCNA/0 - Concepts/day 1.md",
     "01 - CCNA/00 - 100 Days of CCNA.md",
     "03 - AWS Solutions Architect/Udemy Course",
@@ -218,8 +224,6 @@
     "02 - Security+/26 - Automation and Orchestration.md",
     "02 - Security+/25 - Investigating an Incident.md",
     "02 - Security+/24 - Incident Response.md",
-    "02 - Security+/23 - Altering and Monitoring.md",
-    "02 - Security+/22 - Vulnerability Management.md",
     "02 - Security+",
     "99 - imgs",
     "00 - Net+",
