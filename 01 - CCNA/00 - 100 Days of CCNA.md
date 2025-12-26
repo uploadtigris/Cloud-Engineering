@@ -7,3 +7,7 @@
 - Day 3 anki cards
 - Day 3 lectures
 - Day 3 labs
+
+12/23/25: Day 4
+- Rest!
+- Cover Anki FCs
