@@ -45,7 +45,8 @@ Netmask
 ![[Pasted image 20251228111548.png]]
 - similar to /8, /16, /24 (juniper devices) except for Cisco devices
 
-The **host** portion of the network address CANNOT be assigned to a host.
+In an IP address, the host portion of the network address cannot be assigned to a host.
+
 **Host** portion of the address is all 1's = **Broadcast Address**
 - used to send traffic to all hosts on the network 
 
