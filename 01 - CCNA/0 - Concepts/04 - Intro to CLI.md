@@ -67,6 +67,18 @@ Router(config)#enable secret password
 	--> configures a more secure, always-encrypted enable password
 Router(config)#run privileged-exec-level-command
 	--> executes a privileged-exec level command from global configuration mode
+	
+Router(config)#no command
+	--> removes the command
+Router(config)#show running-config
+	--> displays the current, active configuration file
+Router(config)#show startup-config
+	--> displays the saved configuration file which will be loaded if the device is restarted
+	
+Router(config)#write --> saves config
+Router(config)#write memory --> saves config
+Router(config)#copy running-config startup-config --> saves config
+
 ```
 
 
