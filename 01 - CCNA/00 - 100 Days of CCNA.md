@@ -11,3 +11,13 @@
 12/23/25: Day 4
 - Rest!
 - Cover Anki FCs
+
+12/24 - 12/27
+- Covered Day 4, 5, 6
+
+12/28
+- Anki Flash Cards
+- Day 7 & 8 IPv4 Addressing videos
+- Day 4 Lab
+- Day 6 Lab
+- Day 8 Lab
