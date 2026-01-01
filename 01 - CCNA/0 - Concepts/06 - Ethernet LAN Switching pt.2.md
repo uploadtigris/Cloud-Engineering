@@ -60,5 +60,9 @@ Aging
 	- `clear mac address-table dynamic address {mac-address}`
 	- `clear mac address-table dynamic interface {interface-id \ port}`
 
+**A value of 1500 or smaller in the Type/Length field indicates type**
+
+**A value of 1536 or greater in the Type/Length field indicates length**
+
 
 

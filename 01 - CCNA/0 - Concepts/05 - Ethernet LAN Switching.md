@@ -1,3 +1,6 @@
+0x0800 --> IPv4 Ethernet type value
+0x86DD --> IPv6 Ethernet type value
+
 **Ethernet Frame**
 
 ![[Pasted image 20251226134854.png]]
