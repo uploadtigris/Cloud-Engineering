@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - AWS Data Engineering/01 - DE Fundamentals.md",
+                "file": "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - DE Fundamentals"
+              "title": "readme"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 371.5
   },
   "right": {
     "id": "f3d88208aed16920",
@@ -228,9 +228,33 @@
   },
   "active": "e22a73cb1e5ea567",
   "lastOpenFiles": [
-    "05 - Data Engineering/Data Engineering Roadmap.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/REQUESTED",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/INSTALLER",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/bin/fastapi",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/__pycache__/websockets.cpython-312.pyc",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/__pycache__/utils.cpython-312.pyc",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/__pycache__/types.cpython-312.pyc",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/__pycache__/testclient.cpython-312.pyc",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/__pycache__/templating.cpython-312.pyc",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/__pycache__/staticfiles.cpython-312.pyc",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/security/__pycache__/utils.cpython-312.pyc",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/security/__pycache__/open_id_connect_url.cpython-312.pyc",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/starlette-0.50.0.dist-info/licenses/LICENSE.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/uvicorn-0.40.0.dist-info/licenses/LICENSE.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/2 - FastAPI.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/readme.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/1 - REST APIs.md",
+    "Logs/01-26.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/6 - Capstone.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/5 - Prompt Engineering.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/4 - Generative AI APIs.md",
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/3 - Databases.md",
+    "Logs/12-25.md",
+    "Logs/11-25.md",
+    "Logs/10-25.md",
     "04 - AWS Data Engineering/01 - DE Fundamentals.md",
-    "05 - Data Engineering",
+    "05 - Data Engineering/Data Engineering Roadmap.md",
     "04 - AWS Data Engineering/14 - Everything Else.md",
     "04 - AWS Data Engineering/13 - Developer Tools.md",
     "04 - AWS Data Engineering/12 - Machine Learning.md",
@@ -240,22 +264,6 @@
     "04 - AWS Data Engineering/08 - Application Integration.md",
     "04 - AWS Data Engineering/07 - Analytics.md",
     "04 - AWS Data Engineering/06 - Containers.md",
-    "04 - AWS Data Engineering/05 - Compute.md",
-    "04 - AWS Data Engineering/04 - Migration and Transfer.md",
-    "04 - AWS Data Engineering/03 - Database.md",
-    "04 - AWS Data Engineering/02 - Storage.md",
-    "01 - CCNA/0 - Concepts/15 - VLANs Pt 1.md",
-    "04 - AWS Data Engineering",
-    "01 - CCNA/0 - Concepts/05 - Ethernet LAN Switching.md",
-    "01 - CCNA/0 - Concepts/12 - Static Routing.md",
-    "01 - CCNA/0 - Concepts/11 - Routing Fundamentals.md",
-    "01 - CCNA/0 - Concepts/10 - IPv4 Header.md",
-    "01 - CCNA/0 - Concepts/08 - IPv4 Addressing Pt.2.md",
-    "01 - CCNA/0 - Concepts/07 - IPv4 Addressing.md",
-    "01 - CCNA/0 - Concepts/03 - TCP IP.md",
-    "01 - CCNA/0 - Concepts/04 - Intro to CLI.md",
-    "01 - CCNA/0 - Concepts/06 - Ethernet LAN Switching pt.2.md",
-    "01 - CCNA/0 - Concepts/09 - Switch Interfaces.md",
     "imgs/Pasted image 20251231154049.png",
     "imgs/Pasted image 20251228111548.png",
     "imgs/Pasted image 20251228111348.png",
@@ -265,14 +273,6 @@
     "imgs/Screenshot from 2025-12-21 15-39-29.png",
     "imgs/Pasted image 20251221213741.png",
     "imgs/Pasted image 20251221213604.png",
-    "imgs/Pasted image 20251221213251.png",
-    "03 - AWS Solutions Architect/Udemy Course",
-    "imgs",
-    "03 - AWS Solutions Architect",
-    "02 - Security+",
-    "99 - imgs",
-    "00 - Net+",
-    "CCNA/4 - Subnetting/Untitled",
-    "01 - CCNA/4 - Subnetting"
+    "imgs/Pasted image 20251221213251.png"
   ]
 }

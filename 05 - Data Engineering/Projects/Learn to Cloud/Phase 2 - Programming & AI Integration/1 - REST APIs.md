@@ -1,0 +1,29 @@
+[What Is REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM/)
+- REST API
+	- Each resource is specified in a "URI" which describes the resource as a noun
+	- HTTP methods
+		- POST --> CREATE
+		- GET --> READ
+		- PUT --> UPDATE
+		- DELETE --> DELETE
+		- *the above is what "CRUD" stands for*
+	- HTTPS codes
+		- 200-level --> success
+			- 200 - successful request for existing resource or general successful operation
+			- 201 - specifically signifies that new resource has been successfully created a result of the request
+		- 400-level --> something wrong with our request
+			- 400 - syntax is incorrect in the request
+			- 401 - the requested resource does not exist on the server
+		- 500-level --> something wrong at the server level
+	- pagination
+		- use when there is a larger amount of data
+		- ex: `/products?limit=25&offset=50`
+	- versioning
+		- backward compatibility
+		- `/v1/products
+		- `/v2/products`
+	- view a site's API response
+		- `graph.youtube.com`
+		- `mpas.googleapis.com/maps/api/geocode/json?address=chicago&sensor=false`
+	- "stateless"
+		- this means that client and server do not need to store information about each other to maintain connection and service
