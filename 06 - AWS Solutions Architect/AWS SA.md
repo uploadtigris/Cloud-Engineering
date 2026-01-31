@@ -1,10 +1,10 @@
-*based off the Udemy course by Stephan Mareek*
+*Notes on Udemy course by Stephan Mareek*
 
 [[EC2 Fundamentals]]
 [[EC2 - Solutions Architect Associate Level]]
 [[EC2 Instance Storage]]
 [[High Availability and Scalability: ELB & ASG]]
-[[AWS Fundamentals: RDS + Aurora + ElastiCache]]
+[[AWS Fundamentals RDS , Aurora , ElastiCache]]
 [[Route 53]]
 [[Classic Solutions Architecture Discussions]]
 [[Amazon S3 Introduction]]

@@ -96,3 +96,6 @@ EFS - performance & storage classes
 	- **provisioned** - de-correlated storage to throughput
 	- **elastic** - auto scales throughput
 
+EBS vs EFS
+![[Pasted image 20260131125507.png]]
+![[Pasted image 20260131125557.png]]Note: Remember that Instance Store is directly attached to EC2 instance // if you lost the EC2, you lose the Instance Store
