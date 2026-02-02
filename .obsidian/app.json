@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "imgs",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00 - Zettelkasten"
+  "newFileFolderPath": "00 - Zettelkasten",
+  "alwaysUpdateLinks": true
 }
