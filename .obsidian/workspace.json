@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Career/Timeline and Certs.md",
+                "file": "02 - Security+/Practice Exam Notes/Professor Messer Course.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline and Certs"
+              "title": "Professor Messer Course"
             }
           },
           {
@@ -270,8 +270,8 @@
   },
   "active": "871292fb15c90339",
   "lastOpenFiles": [
-    "00 - Zettelkasten/Incident Response and CIRT.md",
     "03 - Career/Timeline and Certs.md",
+    "00 - Zettelkasten/Incident Response and CIRT.md",
     "03 - Career",
     "imgs/Pasted image 20260207163835.png",
     "02 - Security+/PBQs.md",
