@@ -6,6 +6,7 @@
       {
         "id": "82dbfcd3c519d533",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "1d548ea020185046",
@@ -19,20 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "PBQs"
-            }
-          },
-          {
-            "id": "871292fb15c90339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Security+/Practice Exam Notes/Professor Messer Course.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Professor Messer Course"
             }
           },
           {
@@ -55,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Zettelkasten/Cryptographic Hashes.md",
+                "file": "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptographic Hashes"
+              "title": "HTTP, HTTPS & SSL, TLS"
             }
           },
           {
@@ -106,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -268,53 +255,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "871292fb15c90339",
+  "active": "500c3f3b418592a6",
   "lastOpenFiles": [
-    "03 - Career/Timeline and Certs.md",
-    "00 - Zettelkasten/Incident Response and CIRT.md",
-    "03 - Career",
-    "imgs/Pasted image 20260207163835.png",
     "02 - Security+/PBQs.md",
-    "00 - Zettelkasten/Redundancy Strategies and RAID.md",
+    "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
+    "02 - Security+/7 - Data Protection.md",
+    "02 - Security+/26 - Automation and Orchestration.md",
+    "02 - Security+/20 - Hardening.md",
+    "03 - RHCSA/Roadmap.md",
     "00 - Zettelkasten/Cryptographic Hashes.md",
+    "05 - Kubernetes Admin",
+    "04 - AWS SysOps Admin",
+    "00 - Career/Timeline and Certs.md",
+    "imgs/Pasted image 20260131125507.png",
+    "imgs/Pasted image 20260131114724.png",
     "imgs/Pasted image 20260207153205.png",
+    "imgs/Pasted image 20260207163835.png",
+    "01 - Net+/9 - IP Addressing.md",
+    "01 - Net+/8 - Ethernet Switching.md",
+    "01 - Net+/7 - Wireless Networks.md",
+    "01 - Net+/6 - Distribution Systems.md",
+    "01 - Net+/5 - Media and Connectors.md",
+    "01 - Net+/21 - Disaster Recovery.md",
+    "01 - Net+/20 - Documentation and Processes.md",
+    "01 - Net+/19 - Orchestration and Automation.md",
+    "01 - Net+/18 - Network Monitoring.md",
+    "01 - Net+/17 - Network Segmentation.md",
+    "01 - Net+/16 - Logical Security.md",
+    "01 - Net+/15 - Network Attacks.md",
+    "01 - Net+/14 - Network Security Fundamentals.md",
+    "01 - Net+/13 - Cloud and the Datacenter.md",
+    "01 - Net+/12 - Wide Area Networks (WANs).md",
+    "02 - Security+/Practice Exam Notes/Professor Messer Course.md",
+    "00 - Zettelkasten/Incident Response and CIRT.md",
+    "00 - Career",
+    "00 - Zettelkasten/Redundancy Strategies and RAID.md",
     "imgs/Pasted image 20260207152740.png",
     "imgs/Pasted image 20260207152610.png",
-    "00 - Zettelkasten/Troubleshooting Certificate Issues.md",
     "imgs/Pasted image 20260207144643.png",
-    "00 - Zettelkasten/Malware and Viruses.md",
     "imgs/Pasted image 20260207143740.png",
     "imgs/Pasted image 20260207143439.png",
-    "00 - Zettelkasten/Networking, Scanning, and Nmap.md",
-    "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
     "imgs/Pasted image 20260207133442.png",
-    "imgs/Pasted image 20260207132919.png",
-    "imgs/Pasted image 20260207132507.png",
-    "02 - Security+/Practice Exam Notes/Professor Messer Course.md",
-    "00 - Zettelkasten/Threat Intelligence.md",
-    "00 - Zettelkasten/Resiliency.md",
-    "00 - Zettelkasten/Capacity Planning.md",
-    "00 - Zettelkasten/Recovery Testing.md",
-    "00 - Zettelkasten/Power Resiliency.md",
-    "00 - Zettelkasten/Network Appliances.md",
-    "00 - Zettelkasten/Port Security.md",
-    "00 - Zettelkasten/Firewall Types.md",
-    "00 - Zettelkasten/Secure Communication.md",
-    "00 - Zettelkasten/Data Types and Classifications.md",
-    "00 - Zettelkasten/States of Data.md",
-    "00 - Zettelkasten/Cryptographic Attacks.md",
-    "00 - Zettelkasten/Password Attacks.md",
-    "00 - Zettelkasten/Indicators of Compromise (IOC).md",
-    "00 - Zettelkasten/Segmentation and Access Control.md",
-    "00 - Zettelkasten/Mitigation Techniques.md",
     "02 - Security+/Practice Exam Notes",
-    "07 - RHCSA",
+    "03 - RHCSA",
     "++ - Zettelkasten",
     "++ - Zettelkasten ",
     "00 - Zettelkasten",
     "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/REQUESTED",
-    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/INSTALLER",
-    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/bin/fastapi",
-    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi/__pycache__/websockets.cpython-312.pyc"
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/INSTALLER"
   ]
 }
