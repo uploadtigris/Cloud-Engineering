@@ -1,0 +1,1 @@
+**all passwords should be stored as a hash**

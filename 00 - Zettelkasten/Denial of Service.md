@@ -1,0 +1,1 @@
+![[Pasted image 20260203135349.png]]the request can be simple but can have a massive impact when distributed across many systems
