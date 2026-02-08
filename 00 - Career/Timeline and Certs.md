@@ -9,10 +9,10 @@
 ## Job Progression Timeline
 
 ### Phase 1: Exit Help Desk (Months 6-12)
-**After Security+ (now) & RHCSA:**
+**After Security+ & RHCSA:**
 - Target roles: *Junior Linux Admin, Systems Administrator, Junior DevOps Engineer*
 - Start applying immediately after passing (working on RHCSA in parallel)
-- Expected exit: 1-3 months
+- Expected exit: 6-12 months
 
 ### Phase 2: Build Experience (Years 1-3)
 **Junior Security/Linux Role (1-2 years):**
