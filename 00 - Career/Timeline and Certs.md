@@ -16,7 +16,7 @@
 
 **After RHCSA (~9-10 months total):**
 - Target roles: Junior Linux Admin, Systems Administrator, Junior DevOps Engineer
-- Alternative exit path if security roles don't pan out
+- Build out Ansible playbooks for managing / configuring systems
 ### Phase 2: Build Experience (Years 1-3)
 **Junior Security/Linux Role (1-2 years):**
 - Gain hands-on experience
