@@ -9,22 +9,20 @@
 ## Job Progression Timeline
 
 ### Phase 1: Exit Help Desk (Months 6-12)
-**After Security+ (now):**
-- Target roles: *Junior Security Analyst, SOC Analyst Tier 1, IT Security Analyst*
+**After Security+ (now) & RHCSA:**
+- Target roles: *Junior Linux Admin, Systems Administrator, Junior DevOps Engineer*
 - Start applying immediately after passing (working on RHCSA in parallel)
 - Expected exit: 1-3 months
 
-**After RHCSA (~9-10 months total):**
-- Target roles: Junior Linux Admin, Systems Administrator, Junior DevOps Engineer
-- Build out Ansible playbooks for managing / configuring systems
 ### Phase 2: Build Experience (Years 1-3)
 **Junior Security/Linux Role (1-2 years):**
 - Gain hands-on experience
 - Study AWS SysOps and CKA during this time
 - Focus on practical skills: scripting (Python/Bash), automation, cloud platforms
 ### Phase 3: Mid-Level Roles (Years 2-4)
+**After AWS + CKA certs:** 
+
 **DevOps/Cloud Engineer (1-2 years):**
-- Apply **after** AWS + CKA certs
 - Build CI/CD pipelines, manage infrastructure
 - Learn observability tools (Prometheus, Grafana, ELK)
 ### Phase 4: Target Role (Years 3-5)
