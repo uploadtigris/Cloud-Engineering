@@ -1,4 +1,4 @@
-HTTP
+## HTTP
 - URL -> Universal Resource Locator
 ![[Pasted image 20260207132507.png]]
 - DNS -> Domain Name System
