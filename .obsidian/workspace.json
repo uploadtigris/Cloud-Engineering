@@ -8,20 +8,77 @@
         "type": "tabs",
         "children": [
           {
+            "id": "112bc097e2c174f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Security+/Practice Exam Notes/practice exam scores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "practice exam scores"
+            }
+          },
+          {
             "id": "b5200acb563e83e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
+                "file": "02 - Security+/Practice Exam Notes/Course Compass Exams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP, HTTPS & SSL, TLS"
+              "title": "Course Compass Exams"
+            }
+          },
+          {
+            "id": "07662c14a72312bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Zettelkasten/Practice Exam 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice Exam 7"
+            }
+          },
+          {
+            "id": "d0ba803493a8d087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Zettelkasten/Practice Exam 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice Exam 4"
+            }
+          },
+          {
+            "id": "89ead14bce5d5315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Zettelkasten/Practice Exam 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice Exam 6"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +240,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5200acb563e83e5",
+  "active": "07662c14a72312bf",
   "lastOpenFiles": [
-    "02 - Security+/practice exam scores.md",
+    "02 - Security+/Practice Exam Notes/Course Compass Exams.md",
+    "02 - Security+/Practice Exam Notes/practice exam scores.md",
+    "00 - Zettelkasten/Practice Exam 7.md",
+    "00 - Zettelkasten/Practice Exam 4.md",
+    "00 - Zettelkasten/Practice Exam 3.md",
+    "00 - Zettelkasten/Practice Exam 6.md",
+    "00 - Zettelkasten/Practice Exam 5.md",
+    "00 - Zettelkasten/AI Study Notes.md",
+    "02 - Security+/Practice Exam Notes/Practice Exams",
+    "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
     "00 - Zettelkasten/Pasted image 20251219182148.png.md",
     "00 - Zettelkasten/Pasted image 20251220191421.png.md",
     "00 - Zettelkasten/Pasted image 20251220191836.png.md",
-    "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
     "00 - Zettelkasten/Networking, Scanning, and Nmap.md",
     "00 - Zettelkasten/Troubleshooting Certificate Issues.md",
     "00 - Zettelkasten/Redundancy Strategies and RAID.md",
@@ -210,13 +275,6 @@
     "01 - Net+/8 - Ethernet Switching.md",
     "01 - Net+/7 - Wireless Networks.md",
     "01 - Net+/6 - Distribution Systems.md",
-    "01 - Net+/5 - Media and Connectors.md",
-    "01 - Net+/21 - Disaster Recovery.md",
-    "01 - Net+/20 - Documentation and Processes.md",
-    "01 - Net+/19 - Orchestration and Automation.md",
-    "01 - Net+/18 - Network Monitoring.md",
-    "01 - Net+/17 - Network Segmentation.md",
-    "01 - Net+/16 - Logical Security.md",
     "00 - Career",
     "imgs/Pasted image 20260207152740.png",
     "imgs/Pasted image 20260207152610.png",
@@ -229,7 +287,6 @@
     "++ - Zettelkasten",
     "++ - Zettelkasten ",
     "00 - Zettelkasten",
-    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/REQUESTED",
-    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/INSTALLER"
+    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/REQUESTED"
   ]
 }
