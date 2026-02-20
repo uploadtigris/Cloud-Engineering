@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "112bc097e2c174f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Security+/Practice Exam Notes/practice exam scores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "practice exam scores"
-            }
-          },
-          {
             "id": "b5200acb563e83e5",
             "type": "leaf",
             "state": {
@@ -36,49 +22,63 @@
             }
           },
           {
-            "id": "07662c14a72312bf",
+            "id": "230ea027cfe65bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Zettelkasten/Practice Exam 7.md",
+                "file": "00 - Zettelkasten/Practice Exam 16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Exam 7"
+              "title": "Practice Exam 16"
             }
           },
           {
-            "id": "d0ba803493a8d087",
+            "id": "12722d8c6b8ea06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Zettelkasten/Practice Exam 4.md",
+                "file": "00 - Zettelkasten/Practice Exam 15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Exam 4"
+              "title": "Practice Exam 15"
             }
           },
           {
-            "id": "89ead14bce5d5315",
+            "id": "98b7b145aaf9dc25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Zettelkasten/Practice Exam 6.md",
+                "file": "00 - Zettelkasten/Practice Exam 14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Exam 6"
+              "title": "Practice Exam 14"
+            }
+          },
+          {
+            "id": "73447a349caac0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Security+/Practice Exam Notes/practice exam scores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "practice exam scores"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 459.5004348754883
   },
   "right": {
     "id": "f3d88208aed16920",
@@ -240,53 +240,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "07662c14a72312bf",
+  "active": "230ea027cfe65bb7",
   "lastOpenFiles": [
+    "00 - Zettelkasten/Practice Exam 16.md",
     "02 - Security+/Practice Exam Notes/Course Compass Exams.md",
     "02 - Security+/Practice Exam Notes/practice exam scores.md",
-    "00 - Zettelkasten/Practice Exam 7.md",
-    "00 - Zettelkasten/Practice Exam 4.md",
-    "00 - Zettelkasten/Practice Exam 3.md",
+    "00 - Zettelkasten/Practice Exam 15.md",
+    "00 - Zettelkasten/Practice Exam 14.md",
+    "00 - Zettelkasten/Practice Exam 13.md",
+    "02 - Security+/Dion Course/7 - Data Protection.md",
+    "02 - Security+/Inside Cloud and Security Course/Domain 4 - Security Operations.md",
     "00 - Zettelkasten/Practice Exam 6.md",
-    "00 - Zettelkasten/Practice Exam 5.md",
-    "00 - Zettelkasten/AI Study Notes.md",
-    "02 - Security+/Practice Exam Notes/Practice Exams",
-    "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
-    "00 - Zettelkasten/Pasted image 20251219182148.png.md",
-    "00 - Zettelkasten/Pasted image 20251220191421.png.md",
-    "00 - Zettelkasten/Pasted image 20251220191836.png.md",
-    "00 - Zettelkasten/Networking, Scanning, and Nmap.md",
-    "00 - Zettelkasten/Troubleshooting Certificate Issues.md",
-    "00 - Zettelkasten/Redundancy Strategies and RAID.md",
+    "00 - Zettelkasten/Practice Exam 4.md",
+    "00 - Zettelkasten/Practice Exam 7.md",
+    "02 - Security+/Inside Cloud and Security Course/Domain 3 - Security Architecture.md",
+    "02 - Security+/Inside Cloud and Security Course/Domain 2 - Threats, Vulnerabilities, and Mitigations.md",
+    "02 - Security+/Inside Cloud and Security Course/Domain 1 - General Security Concepts.md",
+    "02 - Security+/Inside Cloud and Security Course/Domain 5 - Security Program Management and Oversight.md",
+    "02 - Security+/Last week cram guide.md",
+    "imgs/Pasted image 20260215192443.png",
     "02 - Security+/PBQs.md",
-    "02 - Security+/7 - Data Protection.md",
-    "02 - Security+/26 - Automation and Orchestration.md",
-    "02 - Security+/20 - Hardening.md",
+    "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
+    "02 - Security+/Dion Course/26 - Automation and Orchestration.md",
+    "02 - Security+/Dion Course/20 - Hardening.md",
+    "02 - Security+/Dion Course/9 - Risk Management.md",
+    "02 - Security+/Dion Course",
+    "02 - Security+/Inside Cloud and Security Course",
+    "03 - RHCSA/Items.md",
+    "02 - Security+/Practice Exam Notes/Professor Messer Course.md",
+    "00 - Zettelkasten/Public Key Infrastructure (PKI).md",
     "03 - RHCSA/Roadmap.md",
-    "00 - Zettelkasten/Cryptographic Hashes.md",
+    "00 - Zettelkasten/Practice Exam 3.md",
+    "02 - Security+/Practice Exam Notes/Practice Exams",
     "05 - Kubernetes Admin",
-    "04 - AWS SysOps Admin",
-    "00 - Career/Timeline and Certs.md",
+    "04 - AWS Solutions Architect Associate",
     "imgs/Pasted image 20260131125507.png",
     "imgs/Pasted image 20260131114724.png",
     "imgs/Pasted image 20260207153205.png",
     "imgs/Pasted image 20260207163835.png",
-    "01 - Net+/9 - IP Addressing.md",
-    "01 - Net+/8 - Ethernet Switching.md",
-    "01 - Net+/7 - Wireless Networks.md",
-    "01 - Net+/6 - Distribution Systems.md",
     "00 - Career",
     "imgs/Pasted image 20260207152740.png",
     "imgs/Pasted image 20260207152610.png",
     "imgs/Pasted image 20260207144643.png",
     "imgs/Pasted image 20260207143740.png",
     "imgs/Pasted image 20260207143439.png",
-    "imgs/Pasted image 20260207133442.png",
     "02 - Security+/Practice Exam Notes",
     "03 - RHCSA",
     "++ - Zettelkasten",
-    "++ - Zettelkasten ",
-    "00 - Zettelkasten",
-    "05 - Data Engineering/Projects/Learn to Cloud/Phase 2 - Programming & AI Integration/FastAPI/venv/lib/python3.12/site-packages/fastapi-0.128.0.dist-info/REQUESTED"
+    "++ - Zettelkasten "
   ]
 }
