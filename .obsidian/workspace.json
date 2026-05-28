@@ -8,77 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5200acb563e83e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Security+/Practice Exam Notes/Course Compass Exams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Course Compass Exams"
-            }
-          },
-          {
-            "id": "230ea027cfe65bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Zettelkasten/Practice Exam 16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practice Exam 16"
-            }
-          },
-          {
-            "id": "12722d8c6b8ea06a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Zettelkasten/Practice Exam 15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practice Exam 15"
-            }
-          },
-          {
-            "id": "98b7b145aaf9dc25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Zettelkasten/Practice Exam 14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practice Exam 14"
-            }
-          },
-          {
             "id": "73447a349caac0f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - RHCSA/Udemy Course/8 - Disk Management and Run Levels.md",
+                "file": "04 - AWS Solutions Architect Associate/0 - Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Disk Management and Run Levels"
+              "title": "0 - Notes"
+            }
+          },
+          {
+            "id": "1967ef672fe1f76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - AWS Solutions Architect Associate/0 - Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 - Notes"
+            }
+          },
+          {
+            "id": "df523d4b156718cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Zettelkasten/Route 53.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Route 53"
+            }
+          },
+          {
+            "id": "47ca4859a1a0b162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Zettelkasten/- Route 53.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- Route 53"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5004348754883
+    "width": 307.505859375,
+    "collapsed": true
   },
   "right": {
     "id": "f3d88208aed16920",
@@ -240,10 +227,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "73447a349caac0f8",
+  "active": "df523d4b156718cd",
   "lastOpenFiles": [
-    "03 - RHCSA/Udemy Course/8 - D.md",
+    "00 - Zettelkasten/Route 53.md",
+    "04 - AWS Solutions Architect Associate/0 - Notes.md",
+    "00 - Zettelkasten/- Route 53.md",
+    "08 - AWS AI Practitoner/0 - Notes.md",
+    "08 - AWS AI Practitoner",
+    "08 - AWS AI Practitoner.md",
+    "00 - Zettelkasten/3 - Storage.md",
+    "00 - Zettelkasten/Practice Exam 14.md",
+    "00 - Zettelkasten/Practice Exam 15.md",
+    "00 - Zettelkasten/Practice Exam 16.md",
+    "02 - Security+/Practice Exam Notes/Course Compass Exams.md",
+    "00 - Zettelkasten/4 - Database.md",
     "03 - RHCSA/Udemy Course/8 - Disk Management and Run Levels.md",
+    "07 - CKA",
+    "06 - RHCSA",
+    "05 - AWS CloudOps Engineer",
+    "04 - AWS Solutions Architect Associate",
+    "03 - RHCSA/Udemy Course/8 - D.md",
     "03 - RHCSA/Udemy Course/7 - Networking, Services, and System Updates.md",
     "03 - RHCSA/Udemy Course/6 - Shell Scripting.md",
     "03 - RHCSA/Udemy Course/5 - System Administration.md",
@@ -260,33 +263,17 @@
     "02 - Security+/Inside Cloud and Security Course/Domain 4 - Security Operations.md",
     "02 - Security+/Inside Cloud and Security Course/Domain 3 - Security Architecture.md",
     "02 - Security+/Things.md",
-    "02 - Security+/Inside Cloud and Security Course/Domain 1 - General Security Concepts.md",
-    "02 - Security+/Last week cram guide.md",
-    "02 - Security+/Ports.md",
-    "02 - Security+/HTTP, HTTPS & SSL, TLS.md",
-    "02 - Security+/Practice Exam Notes/practice exam scores.md",
-    "00 - Zettelkasten/Practice Exam 16.md",
-    "00 - Zettelkasten/Practice Exam 15.md",
-    "02 - Security+/Practice Exam Notes/Course Compass Exams.md",
-    "00 - Zettelkasten/Practice Exam 14.md",
-    "00 - Zettelkasten/Practice Exam 13.md",
-    "02 - Security+/Dion Course/7 - Data Protection.md",
     "imgs/Pasted image 20260215192443.png",
     "02 - Security+/Dion Course",
     "02 - Security+/Inside Cloud and Security Course",
-    "02 - Security+/Practice Exam Notes/Practice Exams",
-    "05 - Kubernetes Admin",
-    "04 - AWS Solutions Architect Associate",
     "imgs/Pasted image 20260131125507.png",
     "imgs/Pasted image 20260131114724.png",
     "imgs/Pasted image 20260207153205.png",
     "imgs/Pasted image 20260207163835.png",
-    "00 - Career",
     "imgs/Pasted image 20260207152740.png",
     "imgs/Pasted image 20260207152610.png",
     "imgs/Pasted image 20260207144643.png",
     "imgs/Pasted image 20260207143740.png",
-    "imgs/Pasted image 20260207143439.png",
-    "02 - Security+/Practice Exam Notes"
+    "imgs/Pasted image 20260207143439.png"
   ]
 }

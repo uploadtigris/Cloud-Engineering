@@ -1,0 +1,29 @@
+
+- Code + Slides Download
+- Getting started with AWS
+- IAM + AWS CLI
+- EC2 Fundamentals
+- EC2 - Solutions Architect Associate
+- EC2 Storage
+- High Availability and Scalability: ELB + ASG
+- AWS Fundamentals: RDS + Aurora + ElastiCache
+- [[Route 53]]
+- Classic Solutions Architecture Discussions
+- Amazon S3 Introduction
+- Advanced Amazon S3
+- Amazon S3 Security
+- CloudFront + AWS Global Accelerator
+- AWS Storage Extras
+- Databases in AWS
+- Data & Analytics
+- Machine Learning
+- AWS Monitoring & Audit: CloudWatch, CloudTrail, Config
+- Identity and Access Management (IAM) - Advanced
+- AWS Security & Encryption: KMS, SSM Parameter Store, Shield, WAF
+- Networking - VPC
+- Disaster Recovery & Migrations
+- More Solution Architectures
+- Other Services
+- Whitepapers and Architectures - AWS Certified Solutions Architect Associate
+- Preparing for the Exam + Practice Exam - AWS Certified Solutions Architect Associate
+
